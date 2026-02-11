@@ -1,0 +1,19 @@
+[1mdiff --git a/src/main/webapp/index.jsp b/src/main/webapp/index.jsp[m
+[1mindex 7137181..6767ef5 100644[m
+[1m--- a/src/main/webapp/index.jsp[m
+[1m+++ b/src/main/webapp/index.jsp[m
+[36m@@ -1,8 +1,14 @@[m
+ <html>[m
+[32m+[m
+ <body>[m
+[32m+[m
+ <h2>Hello Matteo</h2>[m
+[32m+[m
+ <p>This is my NextWork web application working!</p>[m
+[32m+[m
+ <p>If you see this line in Github, that means your latest changes are getting pushed to your cloud repo :o</p>[m
+[32m+[m
+ </body>[m
+[32m+[m
+ </html>[m
+ [m
